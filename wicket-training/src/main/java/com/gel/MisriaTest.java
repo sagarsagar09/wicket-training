@@ -1,9 +1,15 @@
 package com.gel;
+package com.gel;
 public class MisriaTest {
+	
+//	private string name;
+//	private int age;
+//	private string firstname;
+//	private string lastname;
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		System.out.println("Hello wrld.....");
 	}
 
 }
