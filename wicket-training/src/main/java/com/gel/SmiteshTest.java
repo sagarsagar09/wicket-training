@@ -20,6 +20,7 @@ public class SmiteshTest {
 	
 
 	public SmiteshTest() {
+		
 		// TODO Auto-generated constructor stub
 		System.out.println("Good to create an object");
 	}
