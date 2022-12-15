@@ -5,7 +5,8 @@ public class SydneyTest {
 	private int age;
 	private String firstName;
 	private String lastName;
-
+	
+	//Getters and Setters
 	public String getName() {
 		return name;
 	}
