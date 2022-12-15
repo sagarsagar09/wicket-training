@@ -12,7 +12,6 @@ public class SalinaTest {
 	public static void main(String args[]) {
 	}
 	
-	
 	public int getAge() {
 		return age;
 		
