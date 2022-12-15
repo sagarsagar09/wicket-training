@@ -1,5 +1,5 @@
 package com.gel;
 
-public class test {
+public class YogeshTest {
 
 }
