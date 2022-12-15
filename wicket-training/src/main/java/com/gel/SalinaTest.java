@@ -1,6 +1,7 @@
 package com.gel;
 
 public class SalinaTest {
+	
 	private int age;
 	private String name;
 	private boolean False;
