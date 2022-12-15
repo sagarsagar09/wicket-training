@@ -8,12 +8,12 @@ public class SalinaTest {
 	private float f = 2.5f;
 	private char ch = 'a';
 	private short s = 454;
-
 	public static void main(String args[]) {
 	}
 
 	public int getAge() {
 		return age;
+		
 	}
 
 	public void setAge(int age) {
