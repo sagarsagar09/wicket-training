@@ -7,9 +7,32 @@ public class ShivaTest {
 	private String firstName;
 	private String lastName;
 	
+	
+	public ShivaTest(String name, int age, String firstName, String lastName) {
+		super();
+		this.name = name;
+		this.age = age;
+		this.firstName = firstName;
+		this.lastName = lastName;
+	}
+
+	public ShivaTest() {
+		// TODO Auto-generated constructor stub
+		System.out.println("Hey good to create an object of Shiva....");
+	}
+
 	public static void main(String[] args) {
 		
 		System.out.println("Hello world.... Wicket training program");
+		ShivaTest st = new ShivaTest();
+		ShivaTest st1 = new ShivaTest("Shiva", 42, "Sivakumar", "Nair");
+		System.out.println(st1.getName());
+		System.out.println(st1.getAge());
+		System.out.println(st1.getFirstName());
+		System.out.println(st1.getLastName());
+		for(int i=1;i<10;i++) {
+			System.out.println(i+" X "+5+" = "+i*5);
+		}
 		
 	}
 
