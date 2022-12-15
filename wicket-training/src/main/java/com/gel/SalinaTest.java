@@ -11,6 +11,7 @@ public class SalinaTest {
 	private short s = 454;
 	public static void main(String args[]) {
 	}
+	
 
 	public int getAge() {
 		return age;
