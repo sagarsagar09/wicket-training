@@ -51,7 +51,7 @@ public class ShreyaTest {
 	public static void main(String[] args) {
 		
 		ShreyaTest s0 = new ShreyaTest();
-		ShreyaTest s1 = new ShreyaTest("Adam", 24, 100000);
+		ShreyaTest s1 = new ShreyaTest("diksha", 24, 100000);
 		System.out.println(s1);
 		
 	}
