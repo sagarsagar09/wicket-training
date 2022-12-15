@@ -1,5 +1,4 @@
 package com.gel;
-package com.gel;
 public class MisriaTest {
 	
 //	private string name;
