@@ -17,7 +17,6 @@ public class GauriTest {
 		
 	}
 
-
 	@Override
 	public String toString() {
 		return "GauriTest [age=" + age + ", name=" + name + ", False=" + False + ", f=" + f + ", s=" + s + ", a=" + a
