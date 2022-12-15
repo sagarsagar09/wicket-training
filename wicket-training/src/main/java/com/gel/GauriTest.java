@@ -7,7 +7,7 @@ public class GauriTest {
 	private boolean False;
 	private float f= 4.6f;
 	private short s = 10000;
-	private long a = 100000L;
+	private long a = 10000000L;
 	private char ch= 'a';
 	
 	
