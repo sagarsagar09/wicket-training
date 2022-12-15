@@ -28,7 +28,7 @@ public class DikshaTest {
 	public static void main(String[] args) {
 		System.out.println("Hello world.... Wicket training program");
 		DikshaTest st = new DikshaTest();
-		DikshaTest st1 = new DikshaTest("diksha", 42,27, 56.6f);
+		DikshaTest st1 = new DikshaTest("diksha", 42,27678278989L, 56.6f);
 		System.out.println(st1.getName());
 		System.out.println(st1.getAge());
 		System.out.println(st1.getMobilenumber());
